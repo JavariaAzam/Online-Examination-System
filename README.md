@@ -17,3 +17,11 @@ Tables: `admins`, `students`, `subjects`, `questions`, `results`
    ```bash
    git clone https://github.com/your-username/online-exam-system.git
    cd online-exam-system
+
+Import SQL_schema.sql into MySQL
+
+Configure the database in app_config.php
+
+Run with XAMPP/WAMP server
+
+Access http://localhost/online-exam-system
